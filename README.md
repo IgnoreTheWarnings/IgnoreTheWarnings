@@ -1,7 +1,7 @@
 ## Hi there 👋
 Take a look around and enjoy your stay.
 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ignore.the.warnings:matrix.org) 
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://chaos.social/@IgnoreTheWarnings) 
 
 
 # 📊 GitHub Stats:
